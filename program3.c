@@ -1,4 +1,5 @@
-/*Write a OpenMP program to calculate n Fibonacci numbers using tasks.
+/*Question 3:
+Write a OpenMP program to calculate n Fibonacci numbers using tasks.
 */
 
 #include<stdio.h>
